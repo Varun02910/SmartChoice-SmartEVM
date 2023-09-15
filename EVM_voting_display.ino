@@ -383,7 +383,7 @@ void loop()
     lcd4.print("Result OUT!!!");
 
     while (password) {
-      if (password == "varun2023") {
+      if (password == "var******") {
         lcd1.clear();
         lcd2.clear();
         lcd3.clear();
