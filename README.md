@@ -1,5 +1,5 @@
 # SmartChoice-SmartEVM
-## /Effective Voting, Clear Results…/ 
+## Effective Voting, Clear Results…
 The "Smart EVM" project introduces an innovative approach to electronic voting by seamlessly combining hardware and software components to enhance the accuracy and transparency of the electoral process. This electronic voting machine allows users to cast their votes for up to four different positions simultaneously while displaying candidate names on an LCD screen. Moreover, it offers the flexibility to update candidate names dynamically through a user-friendly web interface, accessible via a dedicated device Wi-Fi network.
 
 The heart of the Smart EVM is its ability to adapt to changing candidate information effortlessly. By connecting a smartphone or computer to the device's Wi-Fi network and accessing a specific IP address, users can access a name-filling form to modify candidate details, ensuring the system remains up-to-date with the latest candidate information.
